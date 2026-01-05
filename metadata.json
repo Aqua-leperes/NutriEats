@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NutriEats Hub",
+  "description": "A comprehensive nutrition and health platform featuring a 2.5D perspective runner game, BMI tools, and AI-powered nutritional advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
